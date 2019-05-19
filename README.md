@@ -1,0 +1,1 @@
+A simple budget app created using Javascript. This app is based on a tutorial from freecodecamp.org. Just key in your budget amount (e.g Income), your expenses and your expense amount.It will calculate the expenses and balance.Please fork it and make it better!
